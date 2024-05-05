@@ -47,9 +47,12 @@ while True:
 ```
 ## OUPUT - ARP
 ### CLIENT OUTPUT
-![](./CLIENT1.png)
+![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/c2bdedc6-1493-4869-ada8-d37d9c27c45e)
+
 ### SERVER OUTPUT
-![](./SERVER1.png)
+![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/966bf8f6-5c03-4735-9a68-ad332ba54ed3)
+
+
 ## PROGRAM - RARP
 ### CLIENT
 ```py
@@ -79,10 +82,10 @@ while True:
 ```
 ## OUPUT -RARP
 ### CLIENT OUTPUT
-![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/c2bdedc6-1493-4869-ada8-d37d9c27c45e)
+
 
 ### SERVER OUTPUT
-![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/966bf8f6-5c03-4735-9a68-ad332ba54ed3)
+
 
 
 ## RESULT
