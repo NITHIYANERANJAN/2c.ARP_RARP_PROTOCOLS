@@ -82,9 +82,11 @@ while True:
 ```
 ## OUPUT -RARP
 ### CLIENT OUTPUT
+![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/ea01ce00-d801-4c00-8e0b-d7ed6f39744e)
 
 
 ### SERVER OUTPUT
+![image](https://github.com/NITHIYANERANJAN/2c.ARP_RARP_PROTOCOLS/assets/144979351/387a35ec-6bd3-497e-a60e-8ae076c468fc)
 
 
 
